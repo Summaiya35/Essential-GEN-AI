@@ -43,9 +43,9 @@ if sign=='3':
 if point==2.4:
   print("yes")
 elif point==3.5:
-  print("half yes")
+  print("no")
 elif point==0:
-  print("thora ziyada yes")
+  print("no/yes")
 else:
   print("nothing")
 
